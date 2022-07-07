@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FTmyqSGJ0k1lz6wlhlzru3E1J7wj2FxIC2xOTziM7rE=",
+  "Source": "greet",
+  "BasePath": "_content/greet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
